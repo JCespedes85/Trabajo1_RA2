@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url(/images/body-bg.jpg);
+    background-image: url(images/body-bg.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ nav a {
 }
 
 .hero-section {
-    background-image: url('/images/hero-bg.png');
+    background-image: url('images/hero-bg.png');
     background-size: cover;
     background-position: center top;
     scale: 1.1
